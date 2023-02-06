@@ -1,1 +1,1 @@
-# node-redcontrib-taiponrock.
+# node-redcontrib-taiponrock
